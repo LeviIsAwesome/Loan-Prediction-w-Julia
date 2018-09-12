@@ -2,7 +2,7 @@
 A Data Mining Project to Make Loan Prediction using Julia.
 
 ## Description
-The validation of customers' eligibility for the loan based on their details shown below.
+The program validates customers' eligibility for the loan based on their details shown below.
 
 ## Dataset
 | Variable       | Description |
